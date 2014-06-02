@@ -1,9 +1,12 @@
 This is a Test Project.
 
 It demos 
- - how to create a repo on github,
- - how to install and configure git on Fedora,
- - how to initialize repo on the local and push commits to remote.
+
+- how to create a repo on github,
+- how to install and configure git on Fedora,
+- how to initialize repo on the local and push commits to remote.
+
+Following are some initial command lines -
 
     git config --global user.name "bgurung"
     git config --global user.email "bgurung.ebox@gmail.com"
